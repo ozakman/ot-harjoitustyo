@@ -1,0 +1,10 @@
+Tiedosto komentorivi.txt
+
+Tee hakemiston laskarit/viikko1 sisälle tiedosto komentorivi.txt 
+ja kopioi sinne komennon tree tulos
+
+Edellisen tehtäväsarjan lopussa kehoitettiin tallentamaan 
+harjoitusrepositoriossa annetun komennon git log --stat | cat tulos
+
+Tee hakemiston laskarit/viikko1 sisälle tiedosto gitlog.txt ja 
+kopioi sinne githarjoittelun tulos
