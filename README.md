@@ -1,3 +1,9 @@
+C:\Users\Özgen Akman\Documents\HY-MOOC\FULL_STACK_OPEN_2020\ot-harjoitustyo\laskarit\viikko1\komentorivi.txt
+
+C:\Users\Özgen Akman\Documents\HY-MOOC\FULL_STACK_OPEN_2020\ot-harjoitustyo\laskarit\viikko1\gitlog.txt
+
+
+
 Kirjoita jotain tekstiä hakemiston juuressa olevaan tiedostoon README.md
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. 
